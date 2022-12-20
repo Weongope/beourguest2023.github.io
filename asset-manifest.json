@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/wedding-site/static/css/main.8d0a19c6.css",
+    "main.js": "/wedding-site/static/js/main.cdd5f16e.js",
+    "static/media/us.svg": "/wedding-site/static/media/us.4549d7fb46476bf0feb7fa2aa738decc.svg",
+    "static/media/Philosopher-Regular.ttf": "/wedding-site/static/media/Philosopher-Regular.93c7d8b5efe3f355f3ca.ttf",
+    "index.html": "/wedding-site/index.html",
+    "main.8d0a19c6.css.map": "/wedding-site/static/css/main.8d0a19c6.css.map",
+    "main.cdd5f16e.js.map": "/wedding-site/static/js/main.cdd5f16e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8d0a19c6.css",
+    "static/js/main.cdd5f16e.js"
+  ]
+}
